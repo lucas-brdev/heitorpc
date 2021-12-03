@@ -36,3 +36,5 @@ Here are some ideas to get you started:
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=heitorpc&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorpc&layout=compact&langs_count=3" />
 </div>
+
+![Snake animation](https://github.com/heitorpc/heitorpc/blob/output/github-contribution-grid-snake.svg)
